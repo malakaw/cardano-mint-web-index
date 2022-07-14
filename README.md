@@ -14,7 +14,7 @@
 
 2.web接口：[api-asset-mint](https://github.com/malakaw/api-asset-mint)
 
-3.定时任务：task-asset-mint
+3.定时任务：[task-asset-mint](https://github.com/malakaw/task-asset-mint)
 
 ![tech](./imgs/tech.jpg)
 
