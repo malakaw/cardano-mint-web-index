@@ -10,7 +10,7 @@
 
 ### 项目
 
-1.前端 ：web-asset-mint
+1.前端 ：[web-asset-mint](https://github.com/malakaw/web-asset-mint)
 
 2.web接口：[api-asset-mint](https://github.com/malakaw/api-asset-mint)
 
